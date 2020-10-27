@@ -1,4 +1,4 @@
-# ac2-exercicios
+# ac1-exercicios
 Exercícios dos guiões da cadeira de Arquitetura de Computadores 2
 
 ### [aula1](/aula1)
