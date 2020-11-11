@@ -21,4 +21,5 @@ Exercícios dos guiões da cadeira de Arquitetura de Computadores 2
 ### [aula4](/aula4)
 - [Ex-1](/aula4/EX_1)
 - [Ex-2](/aula4/EX_2)
+- [Ex-2](/aula4/EX_2)
 - [AC1-P-Aula4.pdf](/aula4/AC1-P-Aula4.pdf)

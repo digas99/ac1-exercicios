@@ -23,7 +23,7 @@ while:				# while( str[i] != '\0' ) {
 	addu $t3, $t2, $t1	#
 	lb $t4, 0($t3)		#
 	beq $t4, '\0', endw	#
-if:	blt $t4, '0', endif	#	if( (str[i] >= '0') && (str[i] <= '9') )
+	blt $t4, '0', endif	#	if( (str[i] >= '0') && (str[i] <= '9') )
 	bgt $t4, '9', endif	#
 	addi $t0, $t0, 1	#		num++
 endif:	addi $t1, $t1, 1	#	i++
