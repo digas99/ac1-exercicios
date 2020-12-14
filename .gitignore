@@ -1,0 +1,8 @@
+# VIM GARBAGE
+*.un~
+*.swp
+*.swo
+.[a-z]*~
+*.[a-z]*~
+.*.[a-z]*~
+*.*.[a-z]*~
