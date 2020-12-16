@@ -2,8 +2,8 @@
 # num:		$t0
 # i:		$t1
 # str:		$t2
-# str+1:	$t3
-# str[1]:	$t4
+# str+i:	$t3
+# str[i]:	$t4
 	.data
 	.eqv	SIZE, 20
 	.eqv	read_string, 8
