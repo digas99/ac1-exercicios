@@ -33,6 +33,7 @@ Resolvidos em 2021: aula1 - aula6 & teste_tipo-1
 - [EX2](/aula5/EX2)
 - [EX3](/aula5/EX3)
 - [EX4](/aula5/EX4)
+- [EXTRA](/aula5/EXTRA)
 - [AC1-P-Aula5.pdf](/aula5/AC1-P-Aula5.pdf)
 
 ### [aula6](/aula6)
