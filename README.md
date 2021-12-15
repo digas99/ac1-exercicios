@@ -37,15 +37,17 @@ Resolvidos em 2021: aula1 - aula6 & teste_tipo-1
 - [AC1-P-Aula5.pdf](/aula5/AC1-P-Aula5.pdf)
 
 ### [aula6](/aula6)
-- [Ex1](/aula6/EX1)
-- [Ex2](/aula6/EX2)
-- [Ex3](/aula6/EX3)
-- [Ex4](/aula6/EX4)
+- [EX1](/aula6/EX1)
+- [EX2](/aula6/EX2)
+- [EX3](/aula6/EX3)
+- [EX4](/aula6/EX4)
+- [EXTRA](/aula6/EXTRA)
 - [AC1-P-Aula6.pdf](/aula6/AC1-P-Aula6.pdf)
 
 ### [aula7](/aula7)
-- [Ex-1](/aula7/EX_1)
-- [Ex-2](/aula7/EX_2)
+- [EX1](/aula7/EX1)
+- [EX2](/aula7/EX2)
+- [EX3](/aula7/EX3)
 - [AC1-P-Aula7.pdf](/aula7/AC1-P-Aula7.pdf)
 
 ### [aula8](/aula8)
