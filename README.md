@@ -1,7 +1,7 @@
 # ac1-exercicios
 Exercícios dos guiões da cadeira de Arquitetura de Computadores 2
 
-Resolvidos em 2021: aula1 - aula6 & teste_tipo-1
+Resolvidos em 2021: aula1-7 & teste_tipo-1
 
 ### [aula1](/aula1)
 - [EX1](/aula1/EX1)
