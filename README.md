@@ -48,6 +48,7 @@ Resolvidos em 2021: aula1-7 & teste_tipo-1
 - [EX1](/aula7/EX1)
 - [EX2](/aula7/EX2)
 - [EX3](/aula7/EX3)
+- [EX4](/aula7/EX4)
 - [AC1-P-Aula7.pdf](/aula7/AC1-P-Aula7.pdf)
 
 ### [aula8](/aula8)
