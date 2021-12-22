@@ -53,6 +53,7 @@ Resolvidos em 2021: aula1-8 & teste_tipo-1
 
 ### [aula8](/aula8)
 - [EX1](/aula8/EX1)
+- [EX2](/aula8/EX2)
 - [AC1-P-Aula8.pdf](/aula8/AC1-P-Aula8.pdf)
 
 ### [aula9](/aula9)
