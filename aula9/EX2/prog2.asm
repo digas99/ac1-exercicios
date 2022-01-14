@@ -13,7 +13,7 @@ main:
 	addiu $sp, $sp, -4		# preserve values in stack
 	sw $ra, 0($sp)			#
 	
-while:						# while (true) {
+while:						# while (1) {
 	li $v0, print_string	#	print_string(str1)
 	la $a0, str1			#
 	syscall					#
@@ -40,7 +40,7 @@ while:						# while (true) {
 # void main(void) {
 #	double fahrenheit, celcius;
 #
-#	while (true) {
+#	while (1) {
 #		printf("Value (ºF): ");
 #		scanf("%lf", &fahrenheit);
 #		celcius = f2c(fahrenheit);

@@ -5,7 +5,7 @@ double f2c(double );
 void main(void) {
 	double fahrenheit, celcius;
 
-	while (true) {
+	while (1) {
 		printf("Value (ºF): ");
 		scanf("%lf", &fahrenheit);
 		celcius = f2c(fahrenheit);
