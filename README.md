@@ -91,8 +91,7 @@ This is enough to make Mars.jar run in any directory you want.
 alias mars='bash /absolute/path/to/Mars/sh/bash/file/Marsh.sh'
 ```
 
-3. Open a new terminal.
-4. Run the alias in any directory you want and it will open Mars.jar.
+3. Open a new terminal and run the alias in any directory you want and it will open Mars.jar.
 ```
 $ mars
 ```
