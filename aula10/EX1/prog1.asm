@@ -20,10 +20,10 @@ str3:
 	.text
 	.globl main
 main:
-	addiu $sp, $sp, 16		# preserve values in stack
+	addiu $sp, $sp, 12		# preserve values in stack
 	sw $ra, 0($sp)			#
-	s.d $f20, 4($sp)		#
-	sw $s0, 12($sp)			#
+	s.s $f20, 4($sp)		#
+	sw $s0, 8($sp)			#
 	
 	li $v0, print_string	# print_string(str1)
 	la $a0, str1			#
@@ -65,9 +65,9 @@ while:						# while (1) {
 	j while					# }
 	
 	lw $ra, 0($sp)			# retrieve values from stack
-	l.d $f20, 4($sp)		#
-	lw $s0, 12($sp)			#
-	addiu $sp, $sp, 16		#
+	l.s $f20, 4($sp)		#
+	lw $s0, 8($sp)			#
+	addiu $sp, $sp, 12		#
 	jr $ra
 
 # void main(void) {

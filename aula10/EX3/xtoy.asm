@@ -40,8 +40,8 @@ endfor:						# }
 	lw $ra, 0($sp)			# retrieve values from stack
 	lw $s0, 4($sp)			#
 	lw $s1, 8($sp)			#
-	l.d $f20, 12($sp)		#
-	l.d $f22, 16($sp)		#
+	l.s $f20, 12($sp)		#
+	l.s $f22, 16($sp)		#
 	addiu $sp, $sp, 20		#
 	jr $ra
 
