@@ -19,7 +19,7 @@ str3:
 main:
 	addiu $sp, $sp, 8		# preserve values in stack
 	sw $ra, 0($sp)			#
-	s.s $f20, 4($sp)		#
+	s.d $f20, 4($sp)		#
 	
 	li $v0, print_string	# print_string(str1)
 	la $a0, str1			#
@@ -54,7 +54,7 @@ while:						# while (1) {
 	j while					# }
 	
 	lw $ra, 0($sp)			# retrieve values from stack
-	l.s $f20, 4($sp)		#
+	l.d $f20, 4($sp)		#
 	addiu $sp, $sp, 8		#
 	jr $ra
 

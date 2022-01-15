@@ -47,7 +47,7 @@ Todos os exercícios foram resolvidos em 2021/22.
 - [AC1-P-Aula9.pdf](/aula9/AC1-P-Aula9.pdf)
 
 ### [aula10](/aula10)
-- [EX1](/aula10/EX1) 
+- [EX1](/aula10/EX1) - [EX2](/aula10/EX2) 
 - [AC1-P-Aula10.pdf](/aula10/AC1-P-Aula10.pdf)
 
 ### [aula11](/aula11)

@@ -14,8 +14,8 @@ xtoy:
 	sw $ra, 0($sp)			#
 	sw $s0, 4($sp)			#
 	sw $s1, 8($sp)			#
-	s.s $f20, 12($sp)		#
-	s.s $f22, 16($sp)		#
+	s.d $f20, 12($sp)		#
+	s.d $f22, 16($sp)		#
 	
 	mov.s $f20, $f12		# // $f20 = x
 	move $s1, $a0			# // $s1 = y
@@ -40,8 +40,8 @@ endfor:						# }
 	lw $ra, 0($sp)			# retrieve values from stack
 	lw $s0, 4($sp)			#
 	lw $s1, 8($sp)			#
-	l.s $f20, 12($sp)		#
-	l.s $f22, 16($sp)		#
+	l.d $f20, 12($sp)		#
+	l.d $f22, 16($sp)		#
 	addiu $sp, $sp, 20		#
 	jr $ra
 
