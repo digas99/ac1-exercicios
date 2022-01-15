@@ -10,12 +10,12 @@ k0:
 	.text
 	.globl xtoy
 xtoy:
-	addiu $sp, $sp, -20		# preserve values in stack
+	addiu $sp, $sp, -28		# preserve values in stack
 	sw $ra, 0($sp)			#
 	sw $s0, 4($sp)			#
 	sw $s1, 8($sp)			#
 	s.d $f20, 12($sp)		#
-	s.d $f22, 16($sp)		#
+	s.d $f22, 20($sp)		#
 	
 	mov.s $f20, $f12		# // $f20 = x
 	move $s1, $a0			# // $s1 = y
@@ -41,8 +41,8 @@ endfor:						# }
 	lw $s0, 4($sp)			#
 	lw $s1, 8($sp)			#
 	l.d $f20, 12($sp)		#
-	l.d $f22, 16($sp)		#
-	addiu $sp, $sp, 20		#
+	l.d $f22, 20($sp)		#
+	addiu $sp, $sp, 28		#
 	jr $ra
 
 #############################
