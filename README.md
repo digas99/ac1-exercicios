@@ -51,7 +51,7 @@ Todos os exercícios foram resolvidos em 2021/22.
 - [AC1-P-Aula10.pdf](/aula10/AC1-P-Aula10.pdf)
 
 ### [aula11](/aula11)
-- [EX1](/aula11/EX1)
+- [EX1](/aula11/EX1) - [EXTRA](/aula11/EXTRA)
 - [AC1-P-Aula11.pdf](/aula11/AC1-P-Aula11.pdf)
 
 ### [aula12](/aula12)
