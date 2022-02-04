@@ -1,0 +1,7 @@
+							Align	Dimen	Offset
+typedef struct {
+	int id_number			4		4		0
+	char first_name[18]		1		18		4	(0+4=4)
+	char last_name[15]		1		15		22	(4+18=22)
+	float grade				4		4		40	(22+15=37, 37+3=40)
+} student					4		44
