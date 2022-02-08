@@ -61,6 +61,9 @@ Todos os exercícios foram resolvidos em 2021/22.
 ### [teste_tipo1](/teste_tipo-1)
 - [EX1](/teste_tipo-1/EX1) - [EX2](/teste_tipo-1/EX2) - [EX3](/teste_tipo-1/EX3)
 
+### [teste_2-2021](/teste_2-2021) (não testado no Mars)
+- [EX1](/teste_2-2021/EX1) - [EX2](/teste_2-2021/EX2) - [EX3](/teste_2-2021/EX3)
+
 ## Open Mars in Specific Directory
 1. Put **Mars.jar** in the directory you want it to open files and save files into
 2. Create a bash script with the name, for example, **Mars.sh** and put it anywhere you want.
